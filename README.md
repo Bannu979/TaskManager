@@ -111,7 +111,7 @@ The frontend will start on `http://localhost:5173`.
 
 ## Screenshots
 
-[Add screenshots of your application here]
+image.png image.png
 
 ## Deployment Instructions
 
