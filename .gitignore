@@ -1,0 +1,36 @@
+# Dependencies
+/node_modules
+/client/node_modules
+/server/node_modules
+/client/dist
+
+# dotenv environment variables file
+.env
+.env.*
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Mac/Windows specific
+.DS_Store
+Thumbs.db
+
+# Optional editor directories and files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw? 
